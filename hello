@@ -1,0 +1,4 @@
+#!/usr/local/bin/node
+
+console.log("Hello from shell");
+console.log("Selamat \t Datang \n Para Tamu")
